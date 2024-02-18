@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\C# COURSE\#26 Project\project-xxvi\project-xxvi\obj\Debug\net5.0\project-xxvi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\C# COURSE\#26 Project\project-xxvi\project-xxvi\obj\Debug\net5.0\project-xxvi.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\C# COURSE\#26 Project\project-xxvi\project-xxvi\obj\Debug\net5.0\project-xxvi.AssemblyInfo.cs
+C:\Users\DELL\Documents\C# COURSE\#26 Project\project-xxvi\project-xxvi\obj\Debug\net5.0\project-xxvi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\C# COURSE\#26 Project\project-xxvi\project-xxvi\bin\Debug\net5.0\project-xxvi.exe
+C:\Users\DELL\Documents\C# COURSE\#26 Project\project-xxvi\project-xxvi\bin\Debug\net5.0\project-xxvi.deps.json
+C:\Users\DELL\Documents\C# COURSE\#26 Project\project-xxvi\project-xxvi\bin\Debug\net5.0\project-xxvi.runtimeconfig.json
+C:\Users\DELL\Documents\C# COURSE\#26 Project\project-xxvi\project-xxvi\bin\Debug\net5.0\project-xxvi.runtimeconfig.dev.json
+C:\Users\DELL\Documents\C# COURSE\#26 Project\project-xxvi\project-xxvi\bin\Debug\net5.0\project-xxvi.dll
+C:\Users\DELL\Documents\C# COURSE\#26 Project\project-xxvi\project-xxvi\bin\Debug\net5.0\ref\project-xxvi.dll
+C:\Users\DELL\Documents\C# COURSE\#26 Project\project-xxvi\project-xxvi\bin\Debug\net5.0\project-xxvi.pdb
+C:\Users\DELL\Documents\C# COURSE\#26 Project\project-xxvi\project-xxvi\obj\Debug\net5.0\project-xxvi.dll
+C:\Users\DELL\Documents\C# COURSE\#26 Project\project-xxvi\project-xxvi\obj\Debug\net5.0\ref\project-xxvi.dll
+C:\Users\DELL\Documents\C# COURSE\#26 Project\project-xxvi\project-xxvi\obj\Debug\net5.0\project-xxvi.pdb
+C:\Users\DELL\Documents\C# COURSE\#26 Project\project-xxvi\project-xxvi\obj\Debug\net5.0\project-xxvi.genruntimeconfig.cache

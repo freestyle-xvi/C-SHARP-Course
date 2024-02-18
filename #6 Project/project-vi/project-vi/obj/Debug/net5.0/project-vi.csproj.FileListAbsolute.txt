@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\C# COURSE\project-vi\project-vi\bin\Debug\net5.0\project-vi.exe
+C:\Users\DELL\Documents\C# COURSE\project-vi\project-vi\bin\Debug\net5.0\project-vi.deps.json
+C:\Users\DELL\Documents\C# COURSE\project-vi\project-vi\bin\Debug\net5.0\project-vi.runtimeconfig.json
+C:\Users\DELL\Documents\C# COURSE\project-vi\project-vi\bin\Debug\net5.0\project-vi.runtimeconfig.dev.json
+C:\Users\DELL\Documents\C# COURSE\project-vi\project-vi\bin\Debug\net5.0\project-vi.dll
+C:\Users\DELL\Documents\C# COURSE\project-vi\project-vi\bin\Debug\net5.0\ref\project-vi.dll
+C:\Users\DELL\Documents\C# COURSE\project-vi\project-vi\bin\Debug\net5.0\project-vi.pdb
+C:\Users\DELL\Documents\C# COURSE\project-vi\project-vi\obj\Debug\net5.0\project-vi.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\C# COURSE\project-vi\project-vi\obj\Debug\net5.0\project-vi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\C# COURSE\project-vi\project-vi\obj\Debug\net5.0\project-vi.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\C# COURSE\project-vi\project-vi\obj\Debug\net5.0\project-vi.AssemblyInfo.cs
+C:\Users\DELL\Documents\C# COURSE\project-vi\project-vi\obj\Debug\net5.0\project-vi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\C# COURSE\project-vi\project-vi\obj\Debug\net5.0\project-vi.dll
+C:\Users\DELL\Documents\C# COURSE\project-vi\project-vi\obj\Debug\net5.0\ref\project-vi.dll
+C:\Users\DELL\Documents\C# COURSE\project-vi\project-vi\obj\Debug\net5.0\project-vi.pdb
+C:\Users\DELL\Documents\C# COURSE\project-vi\project-vi\obj\Debug\net5.0\project-vi.genruntimeconfig.cache

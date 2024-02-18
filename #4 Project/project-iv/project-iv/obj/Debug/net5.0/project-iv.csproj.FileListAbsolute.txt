@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\C# COURSE\Fourth Project\project-iv\project-iv\bin\Debug\net5.0\project-iv.exe
+C:\Users\DELL\Documents\C# COURSE\Fourth Project\project-iv\project-iv\bin\Debug\net5.0\project-iv.deps.json
+C:\Users\DELL\Documents\C# COURSE\Fourth Project\project-iv\project-iv\bin\Debug\net5.0\project-iv.runtimeconfig.json
+C:\Users\DELL\Documents\C# COURSE\Fourth Project\project-iv\project-iv\bin\Debug\net5.0\project-iv.runtimeconfig.dev.json
+C:\Users\DELL\Documents\C# COURSE\Fourth Project\project-iv\project-iv\bin\Debug\net5.0\project-iv.dll
+C:\Users\DELL\Documents\C# COURSE\Fourth Project\project-iv\project-iv\bin\Debug\net5.0\ref\project-iv.dll
+C:\Users\DELL\Documents\C# COURSE\Fourth Project\project-iv\project-iv\bin\Debug\net5.0\project-iv.pdb
+C:\Users\DELL\Documents\C# COURSE\Fourth Project\project-iv\project-iv\obj\Debug\net5.0\project-iv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\C# COURSE\Fourth Project\project-iv\project-iv\obj\Debug\net5.0\project-iv.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\C# COURSE\Fourth Project\project-iv\project-iv\obj\Debug\net5.0\project-iv.AssemblyInfo.cs
+C:\Users\DELL\Documents\C# COURSE\Fourth Project\project-iv\project-iv\obj\Debug\net5.0\project-iv.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\C# COURSE\Fourth Project\project-iv\project-iv\obj\Debug\net5.0\project-iv.dll
+C:\Users\DELL\Documents\C# COURSE\Fourth Project\project-iv\project-iv\obj\Debug\net5.0\ref\project-iv.dll
+C:\Users\DELL\Documents\C# COURSE\Fourth Project\project-iv\project-iv\obj\Debug\net5.0\project-iv.pdb
+C:\Users\DELL\Documents\C# COURSE\Fourth Project\project-iv\project-iv\obj\Debug\net5.0\project-iv.genruntimeconfig.cache
+C:\Users\DELL\Documents\C# COURSE\Fourth Project\project-iv\project-iv\obj\Debug\net5.0\project-iv.csproj.AssemblyReference.cache

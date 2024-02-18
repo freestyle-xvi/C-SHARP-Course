@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\C# COURSE\#20 Project\project-xx\project-xx\bin\Debug\net5.0\project-xx.exe
+C:\Users\DELL\Documents\C# COURSE\#20 Project\project-xx\project-xx\bin\Debug\net5.0\project-xx.deps.json
+C:\Users\DELL\Documents\C# COURSE\#20 Project\project-xx\project-xx\bin\Debug\net5.0\project-xx.runtimeconfig.json
+C:\Users\DELL\Documents\C# COURSE\#20 Project\project-xx\project-xx\bin\Debug\net5.0\project-xx.runtimeconfig.dev.json
+C:\Users\DELL\Documents\C# COURSE\#20 Project\project-xx\project-xx\bin\Debug\net5.0\project-xx.dll
+C:\Users\DELL\Documents\C# COURSE\#20 Project\project-xx\project-xx\bin\Debug\net5.0\ref\project-xx.dll
+C:\Users\DELL\Documents\C# COURSE\#20 Project\project-xx\project-xx\bin\Debug\net5.0\project-xx.pdb
+C:\Users\DELL\Documents\C# COURSE\#20 Project\project-xx\project-xx\obj\Debug\net5.0\project-xx.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\C# COURSE\#20 Project\project-xx\project-xx\obj\Debug\net5.0\project-xx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\C# COURSE\#20 Project\project-xx\project-xx\obj\Debug\net5.0\project-xx.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\C# COURSE\#20 Project\project-xx\project-xx\obj\Debug\net5.0\project-xx.AssemblyInfo.cs
+C:\Users\DELL\Documents\C# COURSE\#20 Project\project-xx\project-xx\obj\Debug\net5.0\project-xx.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\C# COURSE\#20 Project\project-xx\project-xx\obj\Debug\net5.0\project-xx.dll
+C:\Users\DELL\Documents\C# COURSE\#20 Project\project-xx\project-xx\obj\Debug\net5.0\ref\project-xx.dll
+C:\Users\DELL\Documents\C# COURSE\#20 Project\project-xx\project-xx\obj\Debug\net5.0\project-xx.pdb
+C:\Users\DELL\Documents\C# COURSE\#20 Project\project-xx\project-xx\obj\Debug\net5.0\project-xx.genruntimeconfig.cache

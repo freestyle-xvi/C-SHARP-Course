@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\C# COURSE\First Project\project-i\project-i\bin\Debug\net5.0\project-i.exe
+C:\Users\DELL\Documents\C# COURSE\First Project\project-i\project-i\bin\Debug\net5.0\project-i.deps.json
+C:\Users\DELL\Documents\C# COURSE\First Project\project-i\project-i\bin\Debug\net5.0\project-i.runtimeconfig.json
+C:\Users\DELL\Documents\C# COURSE\First Project\project-i\project-i\bin\Debug\net5.0\project-i.runtimeconfig.dev.json
+C:\Users\DELL\Documents\C# COURSE\First Project\project-i\project-i\bin\Debug\net5.0\project-i.dll
+C:\Users\DELL\Documents\C# COURSE\First Project\project-i\project-i\bin\Debug\net5.0\ref\project-i.dll
+C:\Users\DELL\Documents\C# COURSE\First Project\project-i\project-i\bin\Debug\net5.0\project-i.pdb
+C:\Users\DELL\Documents\C# COURSE\First Project\project-i\project-i\obj\Debug\net5.0\project-i.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\C# COURSE\First Project\project-i\project-i\obj\Debug\net5.0\project-i.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\C# COURSE\First Project\project-i\project-i\obj\Debug\net5.0\project-i.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\C# COURSE\First Project\project-i\project-i\obj\Debug\net5.0\project-i.AssemblyInfo.cs
+C:\Users\DELL\Documents\C# COURSE\First Project\project-i\project-i\obj\Debug\net5.0\project-i.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\C# COURSE\First Project\project-i\project-i\obj\Debug\net5.0\project-i.dll
+C:\Users\DELL\Documents\C# COURSE\First Project\project-i\project-i\obj\Debug\net5.0\ref\project-i.dll
+C:\Users\DELL\Documents\C# COURSE\First Project\project-i\project-i\obj\Debug\net5.0\project-i.pdb
+C:\Users\DELL\Documents\C# COURSE\First Project\project-i\project-i\obj\Debug\net5.0\project-i.genruntimeconfig.cache

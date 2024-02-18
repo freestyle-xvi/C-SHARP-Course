@@ -1,0 +1,25 @@
+console.Write.Line("freestyle")
+`this will output what is in the set of parentheses`
+
+Console.Beep();
+`will make beep sound`
+
+//get good
+`get good will be commented out`
+
+
+STRING ESCAPE SEQUENCES
+
+Escape sequence	Character name
+	
+ \'		Single quote	
+ \"		Double quote	
+ \\		Backslash	
+ \0		Null	
+ \a		Alert	
+ \b		Backspace	
+ \f		Form feed	
+ \n		New line	
+ \r		Carriage return	
+ \t		Horizontal tab	
+ \v		Vertical tab	
